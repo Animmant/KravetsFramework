@@ -17,7 +17,6 @@ int countDigits(const string& text) {
     return count;
 }
 
-
 bool isConsonant(char currentLetter) {
     currentLetter= tolower(currentLetter);
 
